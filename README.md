@@ -14,7 +14,7 @@ The following algorithm was ranked in the top 7% of the Kaggle platform. In the 
 - Cross validation
 - Model Selection
 
-The following graphs emerge from the code in the repository. :
+The following graphs emerge from the code in the repository:
 
 
 ![image](https://user-images.githubusercontent.com/65466700/178566725-d9296475-7117-42c2-af14-a30e94eec5c1.png)
